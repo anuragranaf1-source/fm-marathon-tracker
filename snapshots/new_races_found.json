@@ -1,0 +1,2793 @@
+{
+  "generated": "2026-09-05T05:37:35.271807Z",
+  "total_candidates": 615,
+  "new_races_found": 398,
+  "races": [
+    {
+      "source": "AIMS",
+      "name": "webcal://aims-worldrunning.org/events.ics",
+      "location": "",
+      "distance": "Marathon",
+      "url": "webcal://aims-worldrunning.org/events.ics"
+    },
+    {
+      "source": "AIMS",
+      "name": "Jungfrau-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/798.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sohra International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20158.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kota Bharu Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10463.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "41st Wizz Air Budapest Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/802.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Pushkin \u2013 St Petersburg Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10356.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "PBG Satara Hill Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10083.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Watlaharnrai Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10494.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Vedanta Zinc City Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10437.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ladakh Marathon &amp; Ultra",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10077.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Swedbank Tallinn Marathon, Relay Marathon, Half, 10K &amp; 5K",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/805.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Scenic Half Marathon Krabi",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10339.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chisinau International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10135.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Colombo Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20160.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Volksbank-M\u00fcnster-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1115.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hyundai Porto Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/810.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Vilnius Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/806.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "28th International WACHAUmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/812.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Turkish Airlines Active Pulse International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10472.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "dm Women\u2019s Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10456.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Thimphu Marathon \u2013 Run for Global Peace",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10460.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Halfmarathon Alt\u00f6tting",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10219.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Halbmarathon Alt\u00f6tting",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10219.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Buenos Aires International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/872.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Panama City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10504.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Moscow Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10024.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Galaxy Vladivostok Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10206.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Almaty Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10040.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "H.C. Andersen Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/818.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "BMW Berlin-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/822.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hengshui Lake International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10244.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kuching Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10127.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Baxters Loch Ness Marathon &amp; Festival of Running",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/821.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hunnewell Cement - TbilisiMarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10099.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Trento Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10115.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "48th Warsaw Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10017.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Amman International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/873.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kuala Lumpur Standard Chartered Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/760.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tartu City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10050.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sekhon Indian Air Force Marathon (SIM)",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10508.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Generali Cologne Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/841.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Generali K\u00f6ln Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/841.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "LSR Colombo Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/832.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sarmang Dehradun Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10348.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Techcombank Hanoi International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10368.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ko\u0161ice Peace Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/834.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "25th LOTTO Pozna\u0144 Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/847.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Silesia Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/721.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Wizz Air Skopje Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/726.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "XinWu Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10476.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "41st SPAR Budapest Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/838.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kathmandu Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10405.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "EDP Lisbon Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/827.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "3 Country Sparkasse Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/839.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sparkasse 3-L\u00e4nder-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/839.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bishkek Snow Leopard Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10461.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bank of America Chicago Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1143.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "ASML Marathon Eindhoven",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/842.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kazan Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10336.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hyundai Lisbon Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10452.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Nike Melbourne Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/870.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon M\u00fcnchen by Brooks",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/845.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Novi Sad Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/846.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Wizz Air Sofia Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10237.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tlajomulco Half Marathon Skarch Hydrated by Electrolit",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10091.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Royal Victoria Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/833.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Zagreb Marathon, Half and 10K",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/840.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TCS Amsterdam Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/851.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Gyeongju Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/850.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "NLB Ljubljana Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/861.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "International Thessaloniki Night Halfmarathon, 10K, 5K &amp; 1 Mile",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10007.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Yerevan Marathon and Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10137.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TREK Antwerp Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/709.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Vedanta Delhi Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/906.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TUI Palma Marathon Mallorca",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10133.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Taichung International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10417.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TCS Toronto Waterfront Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/849.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Yellow River Estuary (Dongying) Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10400.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Polar Circle Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10430.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon International de Casablanca",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/859.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Changsha Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10314.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chengdu Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10315.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chuncheon International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/868.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Irish Life Dublin Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/869.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "EVA Air Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10256.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Mainova Frankfurt Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/858.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "hella hamburg half marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10150.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "hella hamburg halbmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10150.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kanazawa Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10086.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Lausanne Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/860.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Mae Moh Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10429.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "SwissCityMarathon \u2013 Lucerne",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/862.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Turkistan Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10439.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "UWI SPEC International Half-Marathon &amp; 5K",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/875.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Half Marathon Valencia Trinidad Alfonso Zurich",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/854.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Venicemarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/863.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "China Airlines Marathon \u2013 The Starry Night Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20161.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Barfoot &amp; Thompson Runaway Auckland Marathon presented by ASICS",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/857.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chiayi City Ponds International Marathon \u2013 Elite Race",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10478.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hangzhou Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/881.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TCS New York City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10100.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sun Moon Lake Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10252.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Taiwan National Parks Marathon Yangmingshan",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10510.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Saquib Rizvi Memorial Cancer Awareness Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10364.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "CA Bangladesh Accounting Day Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10503.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Monterey Bay Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/886.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Standard Chartered Hanoi Marathon Heritage Race",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10313.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Gi\u1ea3i Marathon Qu\u1ed1c t\u1ebf Di s\u1ea3n H\u00e0 N\u1ed9i",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10313.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Samarkand Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10450.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Taiwan\u2019s Rice Heaven Tianzhong Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10337.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Antarctic Ice Ultra",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10443.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bangkok Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/885.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Guadalajara Marathon Skarch hydrated by Electrolit",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1128.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Korat Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10376.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "French Riviera Marathon Nice-Cannes",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/878.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon des Alpes-Maritimes Nice-Cannes",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/878.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "EDP Porto Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/865.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ravenna Marathon City of Art",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1121.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Jolshiri RunBangla Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10316.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bangsaen42 Chonburi Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10184.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Borobudur Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10205.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kobe Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1013.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Radisson Blu Larnaka International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10195.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marabana Marathon &amp; Half &amp; 10km",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/887.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Panama International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/932.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ust Trivandrum Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10514.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Verona Run Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10116.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Inspiring Bangladesh Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10477.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Nepalgunj Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10377.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ring Running Series",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10360.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Great Ethiopian Run 10km presented by Bank of America",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/897.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Halong Bay Heritage Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10418.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Powerade Milano Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10401.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "NS Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10509.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "9th \u201cOlympic Day Run\u201d Greece \u2013 Halfmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10406.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Elopura Marathon Sandakan",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10426.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Eilat International Desert Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10029.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Gulf Bank 642 Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10124.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sharm El Sheikh Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10462.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Adani Ahmedabad Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10317.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Amazing Thailand Marathon Bangkok - Official Bangkok Capital City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10342.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Beirut Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/880.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "KLM Cura\u00e7ao Marathon (&amp; 21.1K, 10K, 5K)",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10094.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Discoveries Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/925.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "JBG Kolkata Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10404.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Estra Firenze Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/898.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Vedanta Pink City Half Marathon \u2013 Jaipur",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10217.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Pos Malaysia Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20157.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Serge Vigot La Rochelle International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/901.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon de La Rochelle Serge Vigot",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/901.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Stop GBV Half Marathon Zanzibar",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10422.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Semi Marathon Geoparc M\u2019Goun Azilal",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10408.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Semi Marathon International de Laayoune",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/926.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ayla Red Sea Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/930.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Run Barbados Marathon Weekend",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/920.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bharat Midnight Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10118.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Run Bhopal Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10486.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Angkor Wat International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/911.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "BMW Brunei International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10438.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Walkers Cayman Islands Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/912.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Fukuoka International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/922.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Techcombank Ho Chi Minh City International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10212.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hofu Yomiuri Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10367.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hsinchu City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10485.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Reggae Marathon - the Half Marathon, 10K &amp; 5K",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/910.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "30\u00ba San Jos\u00e9 CR 10K, Half &amp; Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/913.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Shanghai Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/933.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Shenzhen Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10481.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "BYD Singapore International Marathon presented by adidas",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/924.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon COMAR Tunis - Carthage",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10232.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Valencia Trinidad Alfonso Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/891.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marakez Pyramids Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10393.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Antarctic Ice Marathon &amp; 100k",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/893.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "SKF Goa River Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10125.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Scenic Marathon Nakhon Phanom",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10341.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Nara Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/931.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Aspen-Klippa Penang Bridge International Marathon 2025",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/905.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Photak Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10347.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Zengwen Reservoir Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10196.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bangkok Midnight Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10214.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chiang Mai Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10433.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Guangzhou Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10397.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Indore Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10387.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Taipei Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/927.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Northern Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10446.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Galaxy Entertainment Macao International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/923.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bhatiary International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10492.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Neujahrsmarathon Z\u00fcrich",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/5.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Freshworks Chennai Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20159.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Siberian Ice Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/631.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "34th Egyptian Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/640.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kaohsiung Fubon Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10033.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Khao Yai Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10457.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Khon Kaen International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/641.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "PolarNight Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10228.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "China Coast Marathon and Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/636.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon M\u00e9rida Banorte",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10157.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Standard Chartered Taipei Charity Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10039.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "10K Valencia Ibercaja by Kiprun",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10255.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "C&amp;D Xiamen Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/632.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "JBG Durgapur Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10402.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Doha Marathon by Ooredoo",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10491.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chevron Houston Marathon, Aramco Houston Half Marathon and We Are Houston 5K",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10078.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Standard Chartered Hong Kong Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/647.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kinmen Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/659.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Maui Oceanfront Marathon, Maui Oceanfront Half Marathon, 6-Miler, 5K",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/638.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tainan International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10436.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Dhaka Men\u2019s Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10489.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Buriram Marathon Presented by Chang Mineral",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10224.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bank of Cyprus Nicosia Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/918.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Twincity Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10441.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Muscat Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10194.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "World Marathon Challenge",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10201.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Funchal Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10131.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Johannesbad Thermen-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10493.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon &amp; Semi-marathon International de Marrakech",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/642.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Osaka Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10410.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Osaka Women\u2019s Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/643.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Thai Sikh Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10312.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "MG Vadodara International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/4.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chombeung Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10180.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hong Kong\u2013Zhuhai\u2013Macao Bridge Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10413.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Beppu-Oita Mainichi Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/644.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ehime Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10251.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kagawa Marugame International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/645.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kilimanjaro Marathon, Half Marathon &amp; Fun Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/656.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Pokhara International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10386.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "KD Amdavad Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10513.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bodhgaya Marathon \u2013 Run For Global Peace",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10427.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Romeo&amp;Giulietta Run Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10027.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ethio Telecom Lake Hawassa Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10187.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "KIX Senshu International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10193.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Split Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10156.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kitakyushu Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10041.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "IEM-UEM Kolkata Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10498.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kyoto Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/940.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Napoli City Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10060.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Cognizant New Delhi Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10167.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tel Aviv Bank Leumi Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/683.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TUI Cyprus Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10164.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Daegu Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/698.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Malta Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/895.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Osaka Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/874.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Gyeonggi International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10035.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "EDP Lisbon Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/680.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tainan Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10240.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Vientiane International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10440.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Nanshan Taipei Freeway Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10143.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tokushima Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10072.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sahara Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/662.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Jerusalem Marathon, Half &amp; 10k",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/674.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Chongqing International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10305.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Danang International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10058.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Miri Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10365.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Seoul Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/677.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "New Taipei City Wan Jin Shi Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1152.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Malta\u2019s La Valette Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10369.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Lumbini Peace Marathon Running Around Buddha\u2019s Home",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10479.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Spiritual Marathon of Fez",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10449.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Marathon spirituel de F\u00e8s",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10449.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sihanoukville International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/673.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Antarctica Marathon\u00ae, Half-Marathon and Ultra-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/670.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "G.S.O. Limassol International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10370.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Saipan Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10202.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Standard Chartered Stanley Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/678.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "International Marathon Varadero",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10334.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Runtalya Marathon presented by Fraport TAV",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1003.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Runtalya Maratonu",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1003.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "XM Limassol Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10374.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Generali Prague Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/684.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "International Marathon Alexander the Great",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/688.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Generali Berlin Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/694.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Generali Berliner Halbmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/694.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "21st Warsaw Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10066.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Dead Sea Ultra Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/696.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "42nd Telekom Vivicitt\u00e1 Spring Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10013.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Canberra Times Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10053.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Pardubice Wine Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/700.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "NN Marathon Rotterdam",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/701.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Almaty Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10328.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "\u010cSOB Bratislava Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/687.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Wizz Air Cluj-Napoca Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10148.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Crete Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10171.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Enschede Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/710.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "ADAC Marathon Hannover",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10018.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Patras Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10421.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TS Women Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10139.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Ochsner Sport Z\u00fcrich Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/713.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "40th Powerade Belgrade Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1009.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Dushanbe International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10042.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Cracovia Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/708.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Nagano Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/703.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Padova Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/712.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "19th PKO Pozna\u0144 Halfmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/691.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "TUI Rhodes Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10089.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Vienna City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/706.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Boston Marathon presented by Bank of America",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/707.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Fjordkraft Bergen City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10004.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "PKO Gdynia Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10134.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Poseidon Athens Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10414.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Big Sur International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/715.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Dalian International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/720.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Du Motion-Runners\u2019 Days Dubrovnik (Dubrovnik Half Marathon)",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10188.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Diacore Gaborone Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/711.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Gifu Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1122.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Haspa Marathon Hamburg",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/716.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "T\u00fcrkiye \u0130\u015f Bankas\u0131 \u0130stanbul Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10054.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kaunas Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10109.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Zurich Rock \u2019n\u2019 Roll Running Series Madrid",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/714.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Terengganu Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10515.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bukidnon International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10448.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "International Peace Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10358.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Phoenix Energy Belfast City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1113.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Prague International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/730.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Toronto Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/724.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Milton Keynes Marathon &amp; Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1160.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Helsinki City Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/779.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Leiden Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10028.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "New Run Lviv Halfmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20156.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Generali Gen\u00e8ve Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1153.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Moscow Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10189.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tallinn Women\u2019s Run \u2013 Maijooks",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10495.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Three Hearts Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/732.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Axios Running Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10398.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Borneo International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10055.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "The Great Wall Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/731.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Moonlight Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10049.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Salzburg Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10001.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "WVV Marathon Wuerzburg",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/733.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Tenzing Hillary Everest Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10475.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "adidas Stockholm Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/745.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Brooks Adelaide Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1163.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "ASICS Austrian Women\u2019s Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10057.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Dhiraagu Fuvahmulah Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10434.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Gbarnga Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10501.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Indonesia Women Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10455.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kazan Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10152.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Lanzhou Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1157.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "\ufeff\ufeffLima 42k Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/734.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Madagascar Marathon, Half, 50K &amp; 10K",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1127.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Semi Marathon International De Meknes",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10507.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Nepalgunj 10 Night Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10471.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Pushkin Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10320.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Thabo Midnight Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10502.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "KLM Aruba Marathon (&amp; 21.1K, 10K, 5K)",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10192.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "EVA Air Brisbane Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1162.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Scenic Half Marathon Chanthaburi",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10340.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Analog Devices Cork City Marathon, Half Marathon and 10k",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/751.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "T\u00f3rshavn Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/796.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bj\u00f6rn Borg Helsinki Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10145.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Laguna Phuket Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/752.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Score Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10445.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kigali International Peace Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/741.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Phnom Penh International Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10059.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Mandiri Jogja Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10499.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Waterford Viking Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10103.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Volcano Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10063.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Astana Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10388.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Suzuki Midnight Sun Run",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1112.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Rottnest Running Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10172.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Lake Saroma 100km Ultra Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/758.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "BMW Tangamanga International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/761.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "PKO Wroclaw Night Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10088.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Gornergrat Zermatt Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/767.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "ASICS Gold Coast Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/765.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "7 Cairns Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10420.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Airlie Beach Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10319.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kuching Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10465.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Amazing Thailand Pattaya Marathon \u2013 Official Pattaya City Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10454.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "White Nights Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/766.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "North Pole Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/695.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sunshine Coast Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10019.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Siberian International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/778.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Angkor Empire Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10008.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Sarawak Energy Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10458.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Dadi Prakashmani Abu Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10306.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Maldives Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10497.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Paavo Nurmi Marathon, Half and 10k",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/763.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Bj\u00f6rn Borg Helsinki Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10198.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Stavanger Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10144.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Maybank Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10006.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Barossa Marathon Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/1164.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hokkaido Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/784.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "NMDC Hyderabad Marathon powered by IDFC FIRST Bank",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10253.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Kia Half Marathon &amp; 10k by Puma",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10117.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Abbott Longford Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/785.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Nong Khai Running Festival",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10500.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "SPB Half Marathon. The Northern Capital",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10190.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Islandsbanki Reykjavik Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/780.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Songkhla Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10390.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "adidas Stockholm Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/808.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "adidas Stockholm Halvmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/808.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Taiping Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10459.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "42nd Wizz Air Budapest Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/802.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "29th International WACHAUmarathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/812.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "49th Warsaw Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10017.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "42nd SPAR Budapest Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/838.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "26th LOTTO Pozna\u0144 Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/847.html"
+    }
+  ]
+}
