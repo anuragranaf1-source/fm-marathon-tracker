@@ -5,7 +5,7 @@
     "url": "https://www.baa.org/races/boston-marathon",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:27:48.257215+00:00"
+    "checked": "2026-09-05T06:07:08.622164+00:00"
   },
   {
     "name": "New York City Marathon",
@@ -13,7 +13,15 @@
     "url": "https://www.nyrr.org/media-center/press-release/2026_0819_tcsnycmprofield",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:27:52.114008+00:00"
+    "checked": "2026-09-05T06:07:13.437434+00:00"
+  },
+  {
+    "name": "Chicago Marathon",
+    "category": "Americas",
+    "url": "https://www.chicagomarathon.com/",
+    "status": "CLOSED",
+    "method": "dates",
+    "checked": "2026-09-05T06:07:15.608059+00:00"
   },
   {
     "name": "Marine Corps Marathon",
@@ -21,7 +29,7 @@
     "url": "https://www.marinemarathon.com",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:27:54.281482+00:00"
+    "checked": "2026-09-05T06:07:18.146127+00:00"
   },
   {
     "name": "Philadelphia Marathon",
@@ -29,7 +37,7 @@
     "url": "https://www.philadelphiamarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:27:56.787644+00:00"
+    "checked": "2026-09-05T06:07:20.510068+00:00"
   },
   {
     "name": "Honolulu Marathon",
@@ -37,7 +45,7 @@
     "url": "https://www.honolulumarathon.org",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:00.041365+00:00"
+    "checked": "2026-09-05T06:07:23.584042+00:00"
   },
   {
     "name": "California International Marathon",
@@ -45,7 +53,7 @@
     "url": "https://runsra.org/california-international-marathon/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:02.672306+00:00"
+    "checked": "2026-09-05T06:07:26.083500+00:00"
   },
   {
     "name": "Toronto Waterfront Marathon",
@@ -53,7 +61,7 @@
     "url": "https://www.torontowaterfrontmarathon.com/race-expo/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:05.411657+00:00"
+    "checked": "2026-09-05T06:07:28.661305+00:00"
   },
   {
     "name": "Indianapolis Monumental Marathon",
@@ -61,7 +69,7 @@
     "url": "https://monumentalmarathon.com/participants/pricing/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:08.308922+00:00"
+    "checked": "2026-09-05T06:07:30.951936+00:00"
   },
   {
     "name": "San Francisco Marathon",
@@ -69,7 +77,7 @@
     "url": "https://register.thesfmarathon.com/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:28:11.922145+00:00"
+    "checked": "2026-09-05T06:07:34.429503+00:00"
   },
   {
     "name": "Detroit Free Press Marathon",
@@ -77,7 +85,7 @@
     "url": "https://detroitmarathon.enmotive.com/events/register/2026-detroit-free-press-marathon",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:15.334537+00:00"
+    "checked": "2026-09-05T06:07:37.578264+00:00"
   },
   {
     "name": "Comrades Marathon",
@@ -85,7 +93,7 @@
     "url": "https://comrades.com/race-info/historical-results",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:18.166081+00:00"
+    "checked": "2026-09-05T06:07:40.340202+00:00"
   },
   {
     "name": "Amsterdam Marathon",
@@ -93,7 +101,7 @@
     "url": "https://www.tcsamsterdammarathon.eu",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:22.548341+00:00"
+    "checked": "2026-09-05T06:07:43.932151+00:00"
   },
   {
     "name": "Melbourne Marathon",
@@ -101,7 +109,7 @@
     "url": "https://melbournemarathon.com.au",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:25.549989+00:00"
+    "checked": "2026-09-05T06:07:47.186363+00:00"
   },
   {
     "name": "Gold Coast Marathon",
@@ -109,7 +117,7 @@
     "url": "https://goldcoastmarathon.com.au",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:28:27.809363+00:00"
+    "checked": "2026-09-05T06:07:49.430125+00:00"
   },
   {
     "name": "Cape Town Marathon",
@@ -117,7 +125,7 @@
     "url": "https://capetownmarathon.com/international-charity-entry/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:28:31.945711+00:00"
+    "checked": "2026-09-05T06:07:53.339967+00:00"
   },
   {
     "name": "Two Oceans Marathon",
@@ -125,7 +133,7 @@
     "url": "https://www.twooceansmarathon.org.za",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:34.828224+00:00"
+    "checked": "2026-09-05T06:07:56.223984+00:00"
   },
   {
     "name": "LA Marathon",
@@ -133,7 +141,7 @@
     "url": "https://www.mccourtfoundation.org/event/los-angeles-marathon/register/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:37.429078+00:00"
+    "checked": "2026-09-05T06:07:58.653145+00:00"
   },
   {
     "name": "BMO Vancouver Marathon",
@@ -141,7 +149,7 @@
     "url": "https://bmovanmarathon.ca/register",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:39.566062+00:00"
+    "checked": "2026-09-05T06:08:01.061375+00:00"
   },
   {
     "name": "Sydney Marathon",
@@ -149,7 +157,7 @@
     "url": "https://www.tcssydneymarathon.com",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:28:43.933204+00:00"
+    "checked": "2026-09-05T06:08:05.291970+00:00"
   },
   {
     "name": "Auckland Marathon",
@@ -157,7 +165,7 @@
     "url": "https://aucklandmarathon.co.nz/transport-info/travel-and-accommodation/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:46.454970+00:00"
+    "checked": "2026-09-05T06:08:07.965836+00:00"
   },
   {
     "name": "Brisbane Marathon Festival",
@@ -165,7 +173,7 @@
     "url": "https://www.brisbanemarathon.com.au/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:28:48.789406+00:00"
+    "checked": "2026-09-05T06:08:10.310225+00:00"
   },
   {
     "name": "Perth City to Surf",
@@ -173,7 +181,7 @@
     "url": "https://raceroster.com/events/2027/138461/2027-chevron-city-to-surf-for-genu-perth",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:28:51.986879+00:00"
+    "checked": "2026-09-05T06:08:13.270573+00:00"
   },
   {
     "name": "Great Ocean Road Running Festival",
@@ -181,7 +189,7 @@
     "url": "https://tomatotiming.racetecresults.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:54.066705+00:00"
+    "checked": "2026-09-05T06:08:15.481700+00:00"
   },
   {
     "name": "Adelaide Marathon Festival",
@@ -189,7 +197,7 @@
     "url": "https://adelaidemarathon.com.au/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:57.055704+00:00"
+    "checked": "2026-09-05T06:08:18.437321+00:00"
   },
   {
     "name": "Queenstown Marathon",
@@ -197,7 +205,7 @@
     "url": "https://queenstown-marathon.co.nz/entry-info/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:28:59.413341+00:00"
+    "checked": "2026-09-05T06:08:21.041618+00:00"
   },
   {
     "name": "Chevron Houston Marathon",
@@ -205,7 +213,7 @@
     "url": "https://haku.ly/7d52dea603",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:02.820253+00:00"
+    "checked": "2026-09-05T06:08:23.817486+00:00"
   },
   {
     "name": "Walt Disney World Marathon",
@@ -213,7 +221,7 @@
     "url": "https://www.rundisney.com/events/disneyworld/disneyworld-marathon-weekend",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:06.336445+00:00"
+    "checked": "2026-09-05T06:08:27.831079+00:00"
   },
   {
     "name": "Austin Marathon",
@@ -221,7 +229,7 @@
     "url": "https://youraustinmarathon.com/registration/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:08.622013+00:00"
+    "checked": "2026-09-05T06:08:30.166157+00:00"
   },
   {
     "name": "Miami Marathon",
@@ -229,7 +237,7 @@
     "url": "https://my.lifetime.life/policy/race-entry.html",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:11.067143+00:00"
+    "checked": "2026-09-05T06:08:32.518990+00:00"
   },
   {
     "name": "Hobart Marathon Festival",
@@ -237,7 +245,7 @@
     "url": "https://www.hobartmarathon.com.au/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:13.380062+00:00"
+    "checked": "2026-09-05T06:08:34.882307+00:00"
   },
   {
     "name": "Twin Cities Marathon",
@@ -245,7 +253,7 @@
     "url": "https://www.tcmevents.org",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:15.609405+00:00"
+    "checked": "2026-09-05T06:08:37.285459+00:00"
   },
   {
     "name": "Hawke's Bay Marathon",
@@ -253,7 +261,7 @@
     "url": "https://in.njuko.com/2027-runaway-hawkes-bay-marathon-saturday-may-15",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:18.054848+00:00"
+    "checked": "2026-09-05T06:08:40.044166+00:00"
   },
   {
     "name": "Christchurch Marathon",
@@ -261,7 +269,7 @@
     "url": "https://www.christchurchmarathon.co.nz/pricing",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:20.917578+00:00"
+    "checked": "2026-09-05T06:08:42.762664+00:00"
   },
   {
     "name": "Rotorua Marathon",
@@ -269,7 +277,7 @@
     "url": "https://www.rotoruamarathon.co.nz/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:23.577707+00:00"
+    "checked": "2026-09-05T06:08:45.193187+00:00"
   },
   {
     "name": "Cairns Marathon Festival",
@@ -277,7 +285,7 @@
     "url": "https://cairnsmarathon.com.au",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:29:26.757413+00:00"
+    "checked": "2026-09-05T06:08:48.413904+00:00"
   },
   {
     "name": "St George Marathon",
@@ -285,7 +293,7 @@
     "url": "https://events.hakuapp.com/events/47fc1f7fac107df69384/registration_options",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:29:29.518934+00:00"
+    "checked": "2026-09-05T06:08:51.398389+00:00"
   },
   {
     "name": "Rio de Janeiro Marathon",
@@ -293,7 +301,7 @@
     "url": "https://www.metrorio.com.br/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:32.843216+00:00"
+    "checked": "2026-09-05T06:08:54.553463+00:00"
   },
   {
     "name": "BRICS Marathon League",
@@ -301,7 +309,7 @@
     "url": "https://kazan.run",
     "status": "UNKNOWN",
     "method": "scrape",
-    "checked": "2026-09-05T05:29:36.009168+00:00"
+    "checked": "2026-09-05T06:08:58.114184+00:00"
   },
   {
     "name": "Standard Chartered Nairobi Marathon",
@@ -309,7 +317,7 @@
     "url": "https://www.nairobimarathon.com",
     "status": "OPEN",
     "method": "scrape",
-    "checked": "2026-09-05T05:29:40.142648+00:00"
+    "checked": "2026-09-05T06:09:02.062302+00:00"
   },
   {
     "name": "Sao Paulo International Marathon",
@@ -317,7 +325,7 @@
     "url": "https://www.yescom.com.br/maratonasp/2026/ing/index.asp",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:44.521461+00:00"
+    "checked": "2026-09-05T06:09:06.181664+00:00"
   },
   {
     "name": "Columbus Marathon",
@@ -325,7 +333,7 @@
     "url": "https://www.columbusmarathon.com/parking",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:46.798963+00:00"
+    "checked": "2026-09-05T06:09:08.456615+00:00"
   },
   {
     "name": "Grandma's Marathon",
@@ -333,7 +341,7 @@
     "url": "https://grandmasmarathon.com/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:48.973638+00:00"
+    "checked": "2026-09-05T06:09:10.770199+00:00"
   },
   {
     "name": "Rock n Roll Las Vegas",
@@ -341,7 +349,7 @@
     "url": "https://www.runrocknroll.com/events/las-vegas/register",
     "status": "OPEN",
     "method": "scrape",
-    "checked": "2026-09-05T05:29:51.095535+00:00"
+    "checked": "2026-09-05T06:09:12.969032+00:00"
   },
   {
     "name": "Tamarack Ottawa Race Weekend",
@@ -349,7 +357,7 @@
     "url": "https://www.letsdothis.com/ca/o/176436/checkout/ticket?eventId=248331&occurrenceId=21111176096&login=skipped",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:53.211268+00:00"
+    "checked": "2026-09-05T06:09:15.087531+00:00"
   },
   {
     "name": "Mesa Marathon",
@@ -357,7 +365,7 @@
     "url": "https://mesamarathon.com/register",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:56.541567+00:00"
+    "checked": "2026-09-05T06:09:18.198983+00:00"
   },
   {
     "name": "Ballarat Marathon",
@@ -365,7 +373,7 @@
     "url": "https://raceroster.com/events/2027/138919/ballarat-marathon-2027",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:29:59.605563+00:00"
+    "checked": "2026-09-05T06:09:21.211032+00:00"
   },
   {
     "name": "Sunshine Coast Marathon",
@@ -373,7 +381,7 @@
     "url": "https://sunshinecoastmarathon.com.au/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:30:02.832540+00:00"
+    "checked": "2026-09-05T06:09:24.411296+00:00"
   },
   {
     "name": "Noosa Marathon",
@@ -381,7 +389,7 @@
     "url": "https://runawaynoosamarathon.com.au/travel-info/accommodation/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:05.299748+00:00"
+    "checked": "2026-09-05T06:09:26.781264+00:00"
   },
   {
     "name": "Great Ethiopian Run",
@@ -389,7 +397,7 @@
     "url": "https://www.ethiopianrun.org/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:08.653972+00:00"
+    "checked": "2026-09-05T06:09:29.749140+00:00"
   },
   {
     "name": "Big Five Marathon",
@@ -397,7 +405,7 @@
     "url": "https://big-five-marathon.com/registration",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:11.656252+00:00"
+    "checked": "2026-09-05T06:09:32.614953+00:00"
   },
   {
     "name": "Kilimanjaro International Marathon",
@@ -405,7 +413,7 @@
     "url": "https://www.kilimanjaromarathon.com/entries/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:17.180805+00:00"
+    "checked": "2026-09-05T06:09:36.285506+00:00"
   },
   {
     "name": "BMW Dallas Marathon",
@@ -413,7 +421,7 @@
     "url": "https://raceroster.com/events/2026/115310/2026-bmw-dallas-marathon",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:20.057159+00:00"
+    "checked": "2026-09-05T06:09:39.192973+00:00"
   },
   {
     "name": "Victoria Falls Marathon",
@@ -421,7 +429,7 @@
     "url": "https://vicfalls.topevents.co.za",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:30:23.843289+00:00"
+    "checked": "2026-09-05T06:09:43.320375+00:00"
   },
   {
     "name": "Banff Half Marathon",
@@ -429,7 +437,7 @@
     "url": "https://www.banffhalf.com/newsletter",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:26.927270+00:00"
+    "checked": "2026-09-05T06:09:45.640764+00:00"
   },
   {
     "name": "Pittsburgh Marathon",
@@ -437,7 +445,7 @@
     "url": "https://www.thepittsburghmarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:29.320163+00:00"
+    "checked": "2026-09-05T06:09:47.871220+00:00"
   },
   {
     "name": "Eugene Marathon",
@@ -445,7 +453,7 @@
     "url": "https://www.eugenemarathon.com/marathon",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:31.744752+00:00"
+    "checked": "2026-09-05T06:09:50.156515+00:00"
   },
   {
     "name": "Berlin Marathon",
@@ -453,7 +461,7 @@
     "url": "https://www.bmw-berlin-marathon.com/en/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:30:35.275590+00:00"
+    "checked": "2026-09-05T06:09:53.445603+00:00"
   },
   {
     "name": "Tokyo Marathon",
@@ -461,7 +469,7 @@
     "url": "https://www.marathon.tokyo/en/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:30:37.584577+00:00"
+    "checked": "2026-09-05T06:09:55.849800+00:00"
   },
   {
     "name": "Paris Marathon",
@@ -469,7 +477,7 @@
     "url": "https://www.schneiderelectricparismarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:40.062493+00:00"
+    "checked": "2026-09-05T06:09:58.239350+00:00"
   },
   {
     "name": "Valencia Marathon",
@@ -477,7 +485,7 @@
     "url": "https://www.valenciaciudaddelrunning.com/en/marathon/maraton/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:43.049670+00:00"
+    "checked": "2026-09-05T06:10:01.145923+00:00"
   },
   {
     "name": "London Marathon",
@@ -485,7 +493,7 @@
     "url": "https://www.tcslondonmarathon.com",
     "status": "OPEN",
     "method": "scrape",
-    "checked": "2026-09-05T05:30:45.871744+00:00"
+    "checked": "2026-09-05T06:10:03.854572+00:00"
   },
   {
     "name": "Dublin Marathon",
@@ -493,7 +501,7 @@
     "url": "https://irishlifedublinmarathon.ie/expo/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:48.671018+00:00"
+    "checked": "2026-09-05T06:10:26.057071+00:00"
   },
   {
     "name": "Seville Marathon",
@@ -501,7 +509,7 @@
     "url": "https://www.zurichmaratonsevilla.es/en/zms-registrations",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:51.965165+00:00"
+    "checked": "2026-09-05T06:10:29.201936+00:00"
   },
   {
     "name": "Rotterdam Marathon",
@@ -509,7 +517,7 @@
     "url": "https://nnmarathonrotterdam.nl/en/course/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:55.261539+00:00"
+    "checked": "2026-09-05T06:10:33.079399+00:00"
   },
   {
     "name": "Rome Marathon",
@@ -517,7 +525,7 @@
     "url": "https://www.runromethemarathon.com/en/home-2025-en-2/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:30:58.499711+00:00"
+    "checked": "2026-09-05T06:10:36.291494+00:00"
   },
   {
     "name": "Athens Marathon",
@@ -525,7 +533,7 @@
     "url": "https://www.athensauthenticmarathon.gr/en",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:01.482203+00:00"
+    "checked": "2026-09-05T06:10:39.097593+00:00"
   },
   {
     "name": "Copenhagen Marathon",
@@ -533,7 +541,7 @@
     "url": "https://copenhagenmarathon.dk/en/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:04.455149+00:00"
+    "checked": "2026-09-05T06:10:41.983294+00:00"
   },
   {
     "name": "Frankfurt Marathon",
@@ -541,7 +549,7 @@
     "url": "https://www.frankfurt-marathon.com/anmeldelink-2026/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:08.974721+00:00"
+    "checked": "2026-09-05T06:10:46.141421+00:00"
   },
   {
     "name": "Edinburgh Marathon Festival",
@@ -549,7 +557,7 @@
     "url": "https://www.edinburghmarathon.com/marathon",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:11.114560+00:00"
+    "checked": "2026-09-05T06:10:48.287832+00:00"
   },
   {
     "name": "Hamburg Marathon",
@@ -557,7 +565,7 @@
     "url": "https://haspa-marathon-hamburg.de/en/strecke/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:14.466451+00:00"
+    "checked": "2026-09-05T06:10:51.677736+00:00"
   },
   {
     "name": "Stockholm Marathon",
@@ -565,7 +573,7 @@
     "url": "https://stockholmmarathon.se/eng/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:17.130969+00:00"
+    "checked": "2026-09-05T06:10:54.266232+00:00"
   },
   {
     "name": "Midnight Sun Marathon",
@@ -573,7 +581,7 @@
     "url": "https://msm.no/en/registration/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:22.132001+00:00"
+    "checked": "2026-09-05T06:10:59.222416+00:00"
   },
   {
     "name": "Reykjavik Marathon",
@@ -581,7 +589,7 @@
     "url": "https://www.rmi.is/en/race-map",
     "status": "OPEN",
     "method": "scrape",
-    "checked": "2026-09-05T05:31:24.792300+00:00"
+    "checked": "2026-09-05T06:11:01.707943+00:00"
   },
   {
     "name": "Warsaw Marathon",
@@ -589,7 +597,7 @@
     "url": "https://maratonwarszawski.com/en/road-traffic-guide/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:31:28.545036+00:00"
+    "checked": "2026-09-05T06:11:04.610912+00:00"
   },
   {
     "name": "Barcelona Marathon",
@@ -597,7 +605,7 @@
     "url": "https://zurichmaratobarcelona.es/en/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:32.229486+00:00"
+    "checked": "2026-09-05T06:11:08.017594+00:00"
   },
   {
     "name": "Prague Marathon",
@@ -605,7 +613,7 @@
     "url": "https://register.runczech.com/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:35.370942+00:00"
+    "checked": "2026-09-05T06:11:11.047759+00:00"
   },
   {
     "name": "Marathon du Medoc",
@@ -613,7 +621,7 @@
     "url": "https://www.marathondumedoc.com/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:31:38.691704+00:00"
+    "checked": "2026-09-05T06:11:14.067907+00:00"
   },
   {
     "name": "Jungfrau Marathon",
@@ -621,7 +629,7 @@
     "url": "https://www.jungfrau-marathon.ch/en/elite.html",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:31:42.265044+00:00"
+    "checked": "2026-09-05T06:11:18.226172+00:00"
   },
   {
     "name": "Lisbon Marathon",
@@ -629,7 +637,7 @@
     "url": "https://maratonaclubedeportugal.com/en/prova/edp-lisbon-marathon-2026/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:45.355718+00:00"
+    "checked": "2026-09-05T06:11:21.187909+00:00"
   },
   {
     "name": "Venice Marathon",
@@ -637,7 +645,7 @@
     "url": "https://www.venicemarathon.it/en/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:48.566511+00:00"
+    "checked": "2026-09-05T06:11:43.860016+00:00"
   },
   {
     "name": "Porto Marathon",
@@ -645,7 +653,7 @@
     "url": "https://www.maratonadoporto.com/en/rules-2026/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:52.863001+00:00"
+    "checked": "2026-09-05T06:11:47.593361+00:00"
   },
   {
     "name": "Istanbul Marathon",
@@ -653,7 +661,7 @@
     "url": "https://event.spor.istanbul/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:55.076907+00:00"
+    "checked": "2026-09-05T06:11:50.006534+00:00"
   },
   {
     "name": "Ljubljana Marathon",
@@ -661,7 +669,7 @@
     "url": "https://ljubljanskimaraton.si/en/where-to-sleep",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:31:57.881224+00:00"
+    "checked": "2026-09-05T06:11:52.850108+00:00"
   },
   {
     "name": "Manchester Marathon",
@@ -669,7 +677,7 @@
     "url": "https://www.manchestermarathon.co.uk",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:00.124655+00:00"
+    "checked": "2026-09-05T06:11:55.171610+00:00"
   },
   {
     "name": "Milano Marathon",
@@ -677,7 +685,7 @@
     "url": "https://www.milanomarathon.it/en/marathon/register/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:06.014745+00:00"
+    "checked": "2026-09-05T06:11:59.571660+00:00"
   },
   {
     "name": "Brighton Half Marathon",
@@ -685,7 +693,7 @@
     "url": "https://brighton-half.eventize.co.uk/e/altra-brighton-half-marathon-2027-14352",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:09.820987+00:00"
+    "checked": "2026-09-05T06:12:02.917165+00:00"
   },
   {
     "name": "Zurich Rock n Roll Marathon",
@@ -693,7 +701,7 @@
     "url": "https://rocknrollmadridrun.com/contact/?lang=en",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:13.599227+00:00"
+    "checked": "2026-09-05T06:12:06.414753+00:00"
   },
   {
     "name": "Belfast City Marathon",
@@ -701,7 +709,7 @@
     "url": "https://belfastcitymarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:16.648602+00:00"
+    "checked": "2026-09-05T06:12:09.242365+00:00"
   },
   {
     "name": "Riga Marathon",
@@ -709,7 +717,7 @@
     "url": "https://rimirigamarathon.com/en/registration/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:38.730520+00:00"
+    "checked": "2026-09-05T06:12:12.305014+00:00"
   },
   {
     "name": "Firenze Marathon",
@@ -717,7 +725,7 @@
     "url": "https://www.firenzemarathon.it/en/rankings/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:42.682076+00:00"
+    "checked": "2026-09-05T06:12:18.272769+00:00"
   },
   {
     "name": "Loch Ness Marathon",
@@ -725,7 +733,15 @@
     "url": "https://lochnessmarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:44.821260+00:00"
+    "checked": "2026-09-05T06:12:21.099420+00:00"
+  },
+  {
+    "name": "Budapest Marathon",
+    "category": "Europe",
+    "url": "https://marathon.runinbudapest.com/",
+    "status": "OPEN",
+    "method": "dates",
+    "checked": "2026-09-05T06:12:23.659179+00:00"
   },
   {
     "name": "Arc of Attrition",
@@ -733,7 +749,7 @@
     "url": "https://arcofattrition.utmb.world/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:48.223639+00:00"
+    "checked": "2026-09-05T06:12:27.273078+00:00"
   },
   {
     "name": "Ho Chi Minh City Marathon",
@@ -741,7 +757,7 @@
     "url": "https://hcmcmarathon.com/group-registration/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:51.817430+00:00"
+    "checked": "2026-09-05T06:12:31.059058+00:00"
   },
   {
     "name": "Penang Bridge International Marathon",
@@ -749,7 +765,7 @@
     "url": "https://system.penangmarathon.gov.my/register/2026",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:54.947637+00:00"
+    "checked": "2026-09-05T06:12:34.339456+00:00"
   },
   {
     "name": "Angkor Wat International Marathon",
@@ -757,7 +773,7 @@
     "url": "https://www.cambodia-events.org/events/7",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:32:58.275031+00:00"
+    "checked": "2026-09-05T06:12:37.668964+00:00"
   },
   {
     "name": "Beijing Marathon",
@@ -765,7 +781,7 @@
     "url": "https://en.beijing-marathon.com/registration-guidelines.html",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:03.201683+00:00"
+    "checked": "2026-09-05T06:12:40.971168+00:00"
   },
   {
     "name": "Mt Fuji International Marathon",
@@ -773,7 +789,7 @@
     "url": "https://en.mtfujimarathon.com/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:33:06.505593+00:00"
+    "checked": "2026-09-05T06:12:44.072808+00:00"
   },
   {
     "name": "Nagoya Women's Marathon",
@@ -781,7 +797,7 @@
     "url": "https://womens-marathon.nagoya/en/entry/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:33:09.065859+00:00"
+    "checked": "2026-09-05T06:12:46.292664+00:00"
   },
   {
     "name": "Meta Time Trials Thailand",
@@ -789,7 +805,7 @@
     "url": "https://www.asics.com/th/en-th/mk/meta-time-trials-thailand",
     "status": "UNKNOWN",
     "method": "scrape",
-    "checked": "2026-09-05T05:33:11.560453+00:00"
+    "checked": "2026-09-05T06:12:49.054700+00:00"
   },
   {
     "name": "JTBC Seoul Marathon",
@@ -797,7 +813,7 @@
     "url": "https://en.marathon.jtbc.com/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:33:14.629946+00:00"
+    "checked": "2026-09-05T06:12:52.796042+00:00"
   },
   {
     "name": "HOKA Chiang Mai Marathon",
@@ -805,7 +821,7 @@
     "url": "https://chiangmai.utmb.world/races-runners/runners/prize-money",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:18.101401+00:00"
+    "checked": "2026-09-05T06:12:56.080537+00:00"
   },
   {
     "name": "Buriram Marathon",
@@ -813,7 +829,7 @@
     "url": "https://burirammarathon.com/en/how-to-register/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:21.399494+00:00"
+    "checked": "2026-09-05T06:12:59.571578+00:00"
   },
   {
     "name": "Translantau by UTMB",
@@ -821,7 +837,7 @@
     "url": "https://translantau.utmb.world/races-runners/runners/registration",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:24.978813+00:00"
+    "checked": "2026-09-05T06:13:03.100219+00:00"
   },
   {
     "name": "Dubai Marathon",
@@ -829,7 +845,7 @@
     "url": "https://www.dubaimarathon.org/race-info/how-to-register/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:32.511140+00:00"
+    "checked": "2026-09-05T06:13:09.361667+00:00"
   },
   {
     "name": "ADNOC Abu Dhabi Marathon",
@@ -837,7 +853,7 @@
     "url": "https://www.adnocabudhabimarathon.com/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:36.860641+00:00"
+    "checked": "2026-09-05T06:13:13.314995+00:00"
   },
   {
     "name": "Ras Al Khaimah Half Marathon",
@@ -845,7 +861,7 @@
     "url": "https://rakhalfmarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:39.257387+00:00"
+    "checked": "2026-09-05T06:13:15.668632+00:00"
   },
   {
     "name": "Burj2Burj Half Marathon",
@@ -853,7 +869,7 @@
     "url": "https://www.burj2burj.com/",
     "status": "CLOSED",
     "method": "scrape",
-    "checked": "2026-09-05T05:33:41.373466+00:00"
+    "checked": "2026-09-05T06:13:17.923156+00:00"
   },
   {
     "name": "Riyadh Marathon",
@@ -861,7 +877,7 @@
     "url": "https://riyadhmarathon.org",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:33:44.262973+00:00"
+    "checked": "2026-09-05T06:13:20.973620+00:00"
   },
   {
     "name": "Al Mouj Muscat Marathon",
@@ -869,7 +885,7 @@
     "url": "https://muscatmarathon.om/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:46.462981+00:00"
+    "checked": "2026-09-05T06:13:43.093250+00:00"
   },
   {
     "name": "Petra Desert Marathon",
@@ -877,7 +893,7 @@
     "url": "https://petra-desert-marathon.com/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:33:49.602083+00:00"
+    "checked": "2026-09-05T06:13:46.416076+00:00"
   },
   {
     "name": "Doha Marathon",
@@ -885,7 +901,7 @@
     "url": "https://dohamarathonooredoo.com/en/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:33:54.874551+00:00"
+    "checked": "2026-09-05T06:13:51.595997+00:00"
   },
   {
     "name": "Dead Sea Marathon",
@@ -893,7 +909,7 @@
     "url": "https://in.njuko.com/dead-sea-marathon-20271783345257669?currentPage=select-competition",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:33:57.182489+00:00"
+    "checked": "2026-09-05T06:13:54.300673+00:00"
   },
   {
     "name": "Plus500 City Half Marathon Dubai",
@@ -901,7 +917,7 @@
     "url": "https://icp.gov.ae/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:34:01.579665+00:00"
+    "checked": "2026-09-05T06:13:58.619028+00:00"
   },
   {
     "name": "Oman Desert Marathon",
@@ -909,7 +925,7 @@
     "url": "https://in.njuko.com/oman-desert-marathon-2026",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:04.255833+00:00"
+    "checked": "2026-09-05T06:14:01.218857+00:00"
   },
   {
     "name": "AlUla Trail Race",
@@ -917,7 +933,7 @@
     "url": "https://www.racearabia.sa/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:06.743884+00:00"
+    "checked": "2026-09-05T06:14:04.078724+00:00"
   },
   {
     "name": "Al Marmoom Ultramarathon",
@@ -925,7 +941,7 @@
     "url": "https://ultramarathon.ae/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:10.085671+00:00"
+    "checked": "2026-09-05T06:14:07.520827+00:00"
   },
   {
     "name": "Oman by UTMB",
@@ -933,7 +949,7 @@
     "url": "https://in.register-utmb.world/oman-by-utmb?currentPage=select-competition",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:12.495003+00:00"
+    "checked": "2026-09-05T06:14:10.225159+00:00"
   },
   {
     "name": "Ultra X Jordan",
@@ -941,7 +957,7 @@
     "url": "https://www.moi.gov.jo/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:34:18.088598+00:00"
+    "checked": "2026-09-05T06:14:15.859015+00:00"
   },
   {
     "name": "NBF Fujairah Run",
@@ -949,7 +965,7 @@
     "url": "https://fujairahrun.com/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:21.119307+00:00"
+    "checked": "2026-09-05T06:14:18.793726+00:00"
   },
   {
     "name": "Dubai Run Fitness Challenge",
@@ -957,7 +973,7 @@
     "url": "https://www.dubaifitnesschallenge.com/en/dubai-run",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:23.327637+00:00"
+    "checked": "2026-09-05T06:14:20.994992+00:00"
   },
   {
     "name": "Ladakh Marathon",
@@ -965,7 +981,7 @@
     "url": "https://ladakhmarathon.com/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:34:45.439818+00:00"
+    "checked": "2026-09-05T06:14:24.471118+00:00"
   },
   {
     "name": "NMDC Hyderabad Marathon",
@@ -973,7 +989,7 @@
     "url": "https://www.nmdchyderabadmarathon.com/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:48.261438+00:00"
+    "checked": "2026-09-05T06:14:27.380839+00:00"
   },
   {
     "name": "Delhi Half Marathon",
@@ -981,7 +997,7 @@
     "url": "https://vedantadelhihalfmarathon.procam.in/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:51.992632+00:00"
+    "checked": "2026-09-05T06:14:31.809194+00:00"
   },
   {
     "name": "Tata Mumbai Marathon",
@@ -989,7 +1005,7 @@
     "url": "https://registrations.procam.in/portal/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:34:54.134356+00:00"
+    "checked": "2026-09-05T06:14:34.047210+00:00"
   },
   {
     "name": "TCS World 10K Bangalore",
@@ -997,7 +1013,7 @@
     "url": "https://tcsworld10k.procam.in/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:34:57.899403+00:00"
+    "checked": "2026-09-05T06:14:37.832913+00:00"
   },
   {
     "name": "Wipro Bengaluru Marathon",
@@ -1005,7 +1021,15 @@
     "url": "https://www.bengalurumarathon.in/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:35:00.344209+00:00"
+    "checked": "2026-09-05T06:14:40.448459+00:00"
+  },
+  {
+    "name": "Tata Steel Kolkata 25K",
+    "category": "India",
+    "url": "https://tatasteelworld25k.procam.in/race-categories/open-10k/information",
+    "status": "OPEN",
+    "method": "scrape",
+    "checked": "2026-09-05T06:14:43.024890+00:00"
   },
   {
     "name": "Mumbai Half Marathon",
@@ -1013,7 +1037,7 @@
     "url": "https://mumbaihalfmarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:35:02.822489+00:00"
+    "checked": "2026-09-05T06:14:45.485013+00:00"
   },
   {
     "name": "Bajaj Pune Marathon",
@@ -1021,7 +1045,7 @@
     "url": "https://registrations.indiarunning.com/bajajpunemarathon2026-48091",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:35:05.749838+00:00"
+    "checked": "2026-09-05T06:14:48.449022+00:00"
   },
   {
     "name": "Goa River Marathon",
@@ -1029,7 +1053,7 @@
     "url": "https://www.skfgoarivermarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:35:08.550794+00:00"
+    "checked": "2026-09-05T06:14:51.457443+00:00"
   },
   {
     "name": "Vizag Navy Marathon",
@@ -1037,7 +1061,7 @@
     "url": "https://www.vizagnavymarathon.run",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:35:11.602415+00:00"
+    "checked": "2026-09-05T06:14:54.728427+00:00"
   },
   {
     "name": "Pune International Marathon",
@@ -1045,7 +1069,7 @@
     "url": "https://www.marathonpune.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:35:53.767441+00:00"
+    "checked": "2026-09-05T06:14:57.424885+00:00"
   },
   {
     "name": "Ahmedabad Marathon",
@@ -1053,7 +1077,7 @@
     "url": "https://www.ahmedabadmarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:35:55.946187+00:00"
+    "checked": "2026-09-05T06:14:59.790950+00:00"
   },
   {
     "name": "Bengaluru Midnight Marathon",
@@ -1061,7 +1085,15 @@
     "url": "https://www.midnightmarathon.in",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:36:19.024516+00:00"
+    "checked": "2026-09-05T06:15:04.811849+00:00"
+  },
+  {
+    "name": "New Balance City Series India",
+    "category": "India",
+    "url": "https://nbcityseries.com/",
+    "status": "UNKNOWN",
+    "method": "scrape",
+    "checked": "2026-09-05T06:15:07.447292+00:00"
   },
   {
     "name": "Kochi Marathon",
@@ -1069,7 +1101,7 @@
     "url": "https://www.kochimarathon.in",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:36:21.822274+00:00"
+    "checked": "2026-09-05T06:15:10.487538+00:00"
   },
   {
     "name": "Auroville Marathon",
@@ -1077,7 +1109,7 @@
     "url": "https://www.aurovillemarathon.com/register/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:36:35.134284+00:00"
+    "checked": "2026-09-05T06:15:16.891449+00:00"
   },
   {
     "name": "Satara Hill Half Marathon",
@@ -1085,7 +1117,7 @@
     "url": "https://runsatara.com/registrations/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:36:37.256527+00:00"
+    "checked": "2026-09-05T06:15:19.091299+00:00"
   },
   {
     "name": "Hexaware Dream Runners Half Marathon",
@@ -1093,7 +1125,7 @@
     "url": "https://dreamrunners.in",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:36:39.598963+00:00"
+    "checked": "2026-09-05T06:15:21.328824+00:00"
   },
   {
     "name": "Kaveri Trail Marathon",
@@ -1101,7 +1133,7 @@
     "url": "https://kaveritrailmarathon.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:36:44.043270+00:00"
+    "checked": "2026-09-05T06:15:23.894296+00:00"
   },
   {
     "name": "Chennai Marathon",
@@ -1109,7 +1141,7 @@
     "url": "https://www.thechennaimarathon.com/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:36:47.499592+00:00"
+    "checked": "2026-09-05T06:15:27.361089+00:00"
   },
   {
     "name": "Surya Spiti Marathon",
@@ -1117,7 +1149,7 @@
     "url": "https://www.suryaspitimarathon.com",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:36:49.761535+00:00"
+    "checked": "2026-09-05T06:15:29.646489+00:00"
   },
   {
     "name": "Kashmir Marathon",
@@ -1125,7 +1157,7 @@
     "url": "https://kashmirmarathon.jk.gov.in/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:36:53.191732+00:00"
+    "checked": "2026-09-05T06:15:33.341068+00:00"
   },
   {
     "name": "Puri Coastal Marathon",
@@ -1133,7 +1165,15 @@
     "url": "https://www.puricoastalmarathon.in/register/",
     "status": "OPEN",
     "method": "scrape",
-    "checked": "2026-09-05T05:36:56.320850+00:00"
+    "checked": "2026-09-05T06:15:36.606865+00:00"
+  },
+  {
+    "name": "Nandi Hills Monsoon Run",
+    "category": "India",
+    "url": "https://dnmr.co.in/",
+    "status": "CLOSED",
+    "method": "dates",
+    "checked": "2026-09-05T06:15:38.975057+00:00"
   },
   {
     "name": "Spice Coast Marathon Kochi",
@@ -1141,7 +1181,15 @@
     "url": "https://www.events.solesofcochin.org/scm2026/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:36:59.472271+00:00"
+    "checked": "2026-09-05T06:15:41.762691+00:00"
+  },
+  {
+    "name": "Chennai Trail Ultra",
+    "category": "India",
+    "url": "https://chennaitrailclub.in/event-list/2026-2/chennai-trail-ultra-2026-ctu-26/",
+    "status": "OPEN",
+    "method": "dates",
+    "checked": "2026-09-05T06:15:45.768006+00:00"
   },
   {
     "name": "Kovalam Marathon",
@@ -1149,7 +1197,7 @@
     "url": "https://myraceindia.com",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:37:02.361994+00:00"
+    "checked": "2026-09-05T06:15:48.695177+00:00"
   },
   {
     "name": "Cognizant Delhi Marathon",
@@ -1157,7 +1205,7 @@
     "url": "https://www.newdelhimarathon.com/",
     "status": "CLOSED",
     "method": "dates",
-    "checked": "2026-09-05T05:37:05.224474+00:00"
+    "checked": "2026-09-05T06:15:51.660777+00:00"
   },
   {
     "name": "AU Jaipur Marathon",
@@ -1165,7 +1213,7 @@
     "url": "https://www.marathonjaipur.com/registration",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:37:07.499842+00:00"
+    "checked": "2026-09-05T06:16:13.745861+00:00"
   },
   {
     "name": "Tawang Marathon",
@@ -1173,6 +1221,6 @@
     "url": "https://register.tawangmarathon.com/",
     "status": "OPEN",
     "method": "dates",
-    "checked": "2026-09-05T05:37:12.175994+00:00"
+    "checked": "2026-09-05T06:16:16.857149+00:00"
   }
 ]
