@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-09T14:13:23.468328Z",
-  "total_candidates": 615,
-  "new_races_found": 29,
+  "generated": "2026-09-10T06:17:13.612175Z",
+  "total_candidates": 617,
+  "new_races_found": 30,
   "races": [
     {
       "source": "AIMS",
@@ -114,6 +114,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/911.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Run For The Earth",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20163.html"
     },
     {
       "source": "AIMS",
