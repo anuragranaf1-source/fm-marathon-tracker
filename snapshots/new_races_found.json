@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-21T06:17:45.439828Z",
-  "total_candidates": 617,
-  "new_races_found": 29,
+  "generated": "2026-09-22T06:16:56.916135Z",
+  "total_candidates": 621,
+  "new_races_found": 33,
   "races": [
     {
       "source": "AIMS",
@@ -138,6 +138,20 @@
     },
     {
       "source": "AIMS",
+      "name": "Swansea Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10119.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hanner Marathon Abertawe",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10119.html"
+    },
+    {
+      "source": "AIMS",
       "name": "Generali Prague Half Marathon",
       "location": "",
       "distance": "Marathon",
@@ -187,6 +201,13 @@
     },
     {
       "source": "AIMS",
+      "name": "Tigerhill India Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20165.html"
+    },
+    {
+      "source": "AIMS",
       "name": "Kuching Half Marathon",
       "location": "",
       "distance": "Marathon",
@@ -205,6 +226,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10017.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Great Welsh Marathon Events",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10375.html"
     }
   ]
 }
