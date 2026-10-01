@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-30T06:17:11.604064Z",
-  "total_candidates": 619,
-  "new_races_found": 29,
+  "generated": "2026-10-01T06:20:38.029254Z",
+  "total_candidates": 621,
+  "new_races_found": 30,
   "races": [
     {
       "source": "AIMS",
@@ -93,6 +93,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10100.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "RunRise Nation Diabetes Day Half Marathon 2026",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20166.html"
     },
     {
       "source": "AIMS",
