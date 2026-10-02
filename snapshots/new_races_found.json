@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T06:20:38.029254Z",
-  "total_candidates": 621,
-  "new_races_found": 30,
+  "generated": "2026-10-02T06:16:58.500346Z",
+  "total_candidates": 631,
+  "new_races_found": 31,
   "races": [
     {
       "source": "AIMS",
@@ -9,48 +9,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "webcal://aims-worldrunning.org/events.ics"
-    },
-    {
-      "source": "AIMS",
-      "name": "Jungfrau-Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/798.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "PBG Satara Hill Half Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/10083.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Hyundai Porto Half Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/810.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Buenos Aires International Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/872.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "BMW Berlin-Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/822.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "48th Warsaw Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/10017.html"
     },
     {
       "source": "AIMS",
@@ -65,6 +23,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10452.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "ActivePulse Chattogram International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20167.html"
     },
     {
       "source": "AIMS",
@@ -96,13 +61,6 @@
     },
     {
       "source": "AIMS",
-      "name": "RunRise Nation Diabetes Day Half Marathon 2026",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20166.html"
-    },
-    {
-      "source": "AIMS",
       "name": "Marabana Marathon &amp; Half &amp; 10km",
       "location": "",
       "distance": "Marathon",
@@ -124,6 +82,13 @@
     },
     {
       "source": "AIMS",
+      "name": "UNICEF Charity Run Half Marathon &amp; 10km",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/903.html"
+    },
+    {
+      "source": "AIMS",
       "name": "Osaka Marathon",
       "location": "",
       "distance": "Marathon",
@@ -142,6 +107,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10240.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Wuxi Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10166.html"
     },
     {
       "source": "AIMS",
@@ -205,6 +177,41 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10198.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Jungfrau-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/798.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Hyundai Porto Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/810.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "BMW Berlin-Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/822.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Buenos Aires International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/872.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "PBG Satara Hill Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10083.html"
     },
     {
       "source": "AIMS",
