@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T06:16:58.500346Z",
+  "generated": "2026-10-03T06:21:54.601413Z",
   "total_candidates": 631,
-  "new_races_found": 31,
+  "new_races_found": 28,
   "races": [
     {
       "source": "AIMS",
@@ -23,13 +23,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10452.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "ActivePulse Chattogram International Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20167.html"
     },
     {
       "source": "AIMS",
@@ -82,13 +75,6 @@
     },
     {
       "source": "AIMS",
-      "name": "UNICEF Charity Run Half Marathon &amp; 10km",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/903.html"
-    },
-    {
-      "source": "AIMS",
       "name": "Osaka Marathon",
       "location": "",
       "distance": "Marathon",
@@ -107,13 +93,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10240.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Wuxi Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/10166.html"
     },
     {
       "source": "AIMS",
