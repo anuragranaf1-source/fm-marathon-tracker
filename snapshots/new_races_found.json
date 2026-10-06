@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-05T13:24:39.925423Z",
-  "total_candidates": 631,
+  "generated": "2026-10-06T12:41:56.580129Z",
+  "total_candidates": 632,
   "new_races_found": 28,
   "races": [
     {
@@ -173,7 +173,7 @@
     },
     {
       "source": "AIMS",
-      "name": "BMW Berlin-Marathon",
+      "name": "Generali Berlin-Marathon",
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/822.html"
