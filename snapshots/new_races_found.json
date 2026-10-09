@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-08T12:46:36.562510Z",
-  "total_candidates": 632,
-  "new_races_found": 28,
+  "generated": "2026-10-09T12:33:28.444942Z",
+  "total_candidates": 635,
+  "new_races_found": 29,
   "races": [
     {
       "source": "AIMS",
@@ -65,6 +65,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/932.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Fire International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20168.html"
     },
     {
       "source": "AIMS",
@@ -180,6 +187,13 @@
     },
     {
       "source": "AIMS",
+      "name": "49th Warsaw Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10017.html"
+    },
+    {
+      "source": "AIMS",
       "name": "Buenos Aires International Marathon",
       "location": "",
       "distance": "Marathon",
@@ -191,13 +205,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10083.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "49th Warsaw Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/10017.html"
     }
   ]
 }
