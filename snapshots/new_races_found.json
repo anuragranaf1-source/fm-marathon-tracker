@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-09T12:33:28.444942Z",
+  "generated": "2026-10-10T11:51:42.085033Z",
   "total_candidates": 635,
-  "new_races_found": 29,
+  "new_races_found": 28,
   "races": [
     {
       "source": "AIMS",
@@ -65,13 +65,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/932.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Fire International Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20168.html"
     },
     {
       "source": "AIMS",
