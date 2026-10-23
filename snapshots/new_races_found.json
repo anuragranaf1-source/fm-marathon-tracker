@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-22T11:05:58.971803Z",
-  "total_candidates": 634,
-  "new_races_found": 28,
+  "generated": "2026-10-23T10:59:53.112896Z",
+  "total_candidates": 635,
+  "new_races_found": 29,
   "races": [
     {
       "source": "AIMS",
@@ -79,6 +79,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/874.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Dhaka International Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10335.html"
     },
     {
       "source": "AIMS",
