@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-30T12:05:25.955778Z",
+  "generated": "2026-10-31T11:40:16.075403Z",
   "total_candidates": 633,
-  "new_races_found": 29,
+  "new_races_found": 28,
   "races": [
     {
       "source": "AIMS",
@@ -156,13 +156,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10198.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "CRDB Bank Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/10350.html"
     },
     {
       "source": "AIMS",
