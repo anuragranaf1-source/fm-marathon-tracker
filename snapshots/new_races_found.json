@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T13:33:37.950508Z",
-  "total_candidates": 593,
+  "generated": "2026-11-04T13:45:28.056026Z",
+  "total_candidates": 594,
   "new_races_found": 29,
   "races": [
     {
@@ -30,13 +30,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/932.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "DNCC International Half Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20169.html"
     },
     {
       "source": "AIMS",
@@ -135,6 +128,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/798.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Copenhagen Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/803.html"
     },
     {
       "source": "AIMS",
