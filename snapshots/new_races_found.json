@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T15:01:01.604765Z",
+  "generated": "2026-11-10T14:14:52.335701Z",
   "total_candidates": 594,
   "new_races_found": 29,
   "races": [
@@ -180,6 +180,13 @@
     },
     {
       "source": "AIMS",
+      "name": "Hyundai Lisbon Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/10452.html"
+    },
+    {
+      "source": "AIMS",
       "name": "NLB Ljubljana Marathon",
       "location": "",
       "distance": "Marathon",
@@ -191,13 +198,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/851.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Hyundai Lisbon Half Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/10452.html"
     },
     {
       "source": "AIMS",
