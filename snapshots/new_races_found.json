@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-12T14:35:30.802056Z",
+  "generated": "2026-11-13T13:52:47.565648Z",
   "total_candidates": 595,
-  "new_races_found": 30,
+  "new_races_found": 29,
   "races": [
     {
       "source": "AIMS",
@@ -79,13 +79,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10328.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Rimini Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20170.html"
     },
     {
       "source": "AIMS",
