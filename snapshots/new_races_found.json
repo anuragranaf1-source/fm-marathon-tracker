@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T13:52:47.565648Z",
+  "generated": "2026-11-14T12:57:31.807583Z",
   "total_candidates": 595,
   "new_races_found": 29,
   "races": [
@@ -61,17 +61,17 @@
     },
     {
       "source": "AIMS",
-      "name": "Generali Prague Half Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/684.html"
-    },
-    {
-      "source": "AIMS",
       "name": "21st Warsaw Half Marathon",
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/10066.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Generali Prague Half Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/684.html"
     },
     {
       "source": "AIMS",
