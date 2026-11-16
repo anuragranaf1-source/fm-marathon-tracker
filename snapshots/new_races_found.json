@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-15T13:25:39.671916Z",
-  "total_candidates": 595,
-  "new_races_found": 29,
+  "generated": "2026-11-16T14:38:14.487358Z",
+  "total_candidates": 596,
+  "new_races_found": 30,
   "races": [
     {
       "source": "AIMS",
@@ -191,6 +191,13 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/861.html"
+    },
+    {
+      "source": "AIMS",
+      "name": "Neapolis Marathon",
+      "location": "",
+      "distance": "Marathon",
+      "url": "https://www.aims-worldrunning.org/races/20171.html"
     },
     {
       "source": "AIMS",
