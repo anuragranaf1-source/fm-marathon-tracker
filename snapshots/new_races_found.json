@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-17T15:28:38.228362Z",
+  "generated": "2026-11-18T15:03:33.190467Z",
   "total_candidates": 599,
-  "new_races_found": 31,
+  "new_races_found": 29,
   "races": [
     {
       "source": "AIMS",
@@ -37,20 +37,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/911.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Cox\u2019s Bazar International Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20173.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Mohua Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20172.html"
     },
     {
       "source": "AIMS",
