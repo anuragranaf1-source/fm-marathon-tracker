@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-23T17:10:22.776925Z",
+  "generated": "2026-11-24T16:57:31.715939Z",
   "total_candidates": 604,
-  "new_races_found": 31,
+  "new_races_found": 29,
   "races": [
     {
       "source": "AIMS",
@@ -37,20 +37,6 @@
       "location": "",
       "distance": "Marathon",
       "url": "https://www.aims-worldrunning.org/races/911.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "Bangladesh International Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20174.html"
-    },
-    {
-      "source": "AIMS",
-      "name": "NK Nongkhai Marathon",
-      "location": "",
-      "distance": "Marathon",
-      "url": "https://www.aims-worldrunning.org/races/20175.html"
     },
     {
       "source": "AIMS",
